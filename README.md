@@ -1,8 +1,6 @@
-# recipe
+# Recipe
 
-Vite + React + TypeScript frontend for viewing and searching recipes. This app calls a backend API at `/api` (the Vite dev server is configured to proxy `/api` to `http://localhost:8081`).
-
----
+Frontend client for the Recipe Platform — a focused single-page application built with Vite, React, and TypeScript to provide users with fast, accessible browsing and searching of culinary recipes. The frontend consumes a RESTful backend service that stores recipe data, provides paginated listing, and supports flexible search filters including numeric operators.
 
 ## Table of contents
 
